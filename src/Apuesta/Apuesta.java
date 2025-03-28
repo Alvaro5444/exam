@@ -6,6 +6,7 @@ public class Apuesta {
      * @author Alvaro
      * @version 1.0
      */
+    private int dinero;
     private int dinero_disp;
     private int goles_local;
     private int goles_visitante;
